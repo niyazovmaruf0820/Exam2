@@ -1,0 +1,14 @@
+C:\Users\DELL USA\Desktop\C#\OOP\Exam2\task7\obj\Debug\net8.0\task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL USA\Desktop\C#\OOP\Exam2\task7\obj\Debug\net8.0\task7.AssemblyInfoInputs.cache
+C:\Users\DELL USA\Desktop\C#\OOP\Exam2\task7\obj\Debug\net8.0\task7.AssemblyInfo.cs
+C:\Users\DELL USA\Desktop\C#\OOP\Exam2\task7\obj\Debug\net8.0\task7.csproj.CoreCompileInputs.cache
+C:\Users\DELL USA\Desktop\C#\OOP\Exam2\task7\bin\Debug\net8.0\task7.exe
+C:\Users\DELL USA\Desktop\C#\OOP\Exam2\task7\bin\Debug\net8.0\task7.deps.json
+C:\Users\DELL USA\Desktop\C#\OOP\Exam2\task7\bin\Debug\net8.0\task7.runtimeconfig.json
+C:\Users\DELL USA\Desktop\C#\OOP\Exam2\task7\bin\Debug\net8.0\task7.dll
+C:\Users\DELL USA\Desktop\C#\OOP\Exam2\task7\bin\Debug\net8.0\task7.pdb
+C:\Users\DELL USA\Desktop\C#\OOP\Exam2\task7\obj\Debug\net8.0\task7.dll
+C:\Users\DELL USA\Desktop\C#\OOP\Exam2\task7\obj\Debug\net8.0\refint\task7.dll
+C:\Users\DELL USA\Desktop\C#\OOP\Exam2\task7\obj\Debug\net8.0\task7.pdb
+C:\Users\DELL USA\Desktop\C#\OOP\Exam2\task7\obj\Debug\net8.0\task7.genruntimeconfig.cache
+C:\Users\DELL USA\Desktop\C#\OOP\Exam2\task7\obj\Debug\net8.0\ref\task7.dll
